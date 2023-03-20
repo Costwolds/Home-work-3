@@ -1,0 +1,30 @@
+C:\Users\Пользователь\OneDrive\Рабочий стол\GeekBrains\dzc#\d3\Новая папка\bin\Debug\net7.0\Новая папка.exe
+C:\Users\Пользователь\OneDrive\Рабочий стол\GeekBrains\dzc#\d3\Новая папка\bin\Debug\net7.0\Новая папка.deps.json
+C:\Users\Пользователь\OneDrive\Рабочий стол\GeekBrains\dzc#\d3\Новая папка\bin\Debug\net7.0\Новая папка.runtimeconfig.json
+C:\Users\Пользователь\OneDrive\Рабочий стол\GeekBrains\dzc#\d3\Новая папка\bin\Debug\net7.0\Новая папка.dll
+C:\Users\Пользователь\OneDrive\Рабочий стол\GeekBrains\dzc#\d3\Новая папка\bin\Debug\net7.0\Новая папка.pdb
+C:\Users\Пользователь\OneDrive\Рабочий стол\GeekBrains\dzc#\d3\Новая папка\obj\Debug\net7.0\Новая папка.csproj.AssemblyReference.cache
+C:\Users\Пользователь\OneDrive\Рабочий стол\GeekBrains\dzc#\d3\Новая папка\obj\Debug\net7.0\Новая папка.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\OneDrive\Рабочий стол\GeekBrains\dzc#\d3\Новая папка\obj\Debug\net7.0\Новая папка.AssemblyInfoInputs.cache
+C:\Users\Пользователь\OneDrive\Рабочий стол\GeekBrains\dzc#\d3\Новая папка\obj\Debug\net7.0\Новая папка.AssemblyInfo.cs
+C:\Users\Пользователь\OneDrive\Рабочий стол\GeekBrains\dzc#\d3\Новая папка\obj\Debug\net7.0\Новая папка.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\OneDrive\Рабочий стол\GeekBrains\dzc#\d3\Новая папка\obj\Debug\net7.0\Новая папка.dll
+C:\Users\Пользователь\OneDrive\Рабочий стол\GeekBrains\dzc#\d3\Новая папка\obj\Debug\net7.0\refint\Новая папка.dll
+C:\Users\Пользователь\OneDrive\Рабочий стол\GeekBrains\dzc#\d3\Новая папка\obj\Debug\net7.0\Новая папка.pdb
+C:\Users\Пользователь\OneDrive\Рабочий стол\GeekBrains\dzc#\d3\Новая папка\obj\Debug\net7.0\Новая папка.genruntimeconfig.cache
+C:\Users\Пользователь\OneDrive\Рабочий стол\GeekBrains\dzc#\d3\Новая папка\obj\Debug\net7.0\ref\Новая папка.dll
+C:\Users\Пользователь\OneDrive\Рабочий стол\GeekBrains\dzc#\d3\Zadacha21\bin\Debug\net7.0\Новая папка.exe
+C:\Users\Пользователь\OneDrive\Рабочий стол\GeekBrains\dzc#\d3\Zadacha21\bin\Debug\net7.0\Новая папка.deps.json
+C:\Users\Пользователь\OneDrive\Рабочий стол\GeekBrains\dzc#\d3\Zadacha21\bin\Debug\net7.0\Новая папка.runtimeconfig.json
+C:\Users\Пользователь\OneDrive\Рабочий стол\GeekBrains\dzc#\d3\Zadacha21\bin\Debug\net7.0\Новая папка.dll
+C:\Users\Пользователь\OneDrive\Рабочий стол\GeekBrains\dzc#\d3\Zadacha21\bin\Debug\net7.0\Новая папка.pdb
+C:\Users\Пользователь\OneDrive\Рабочий стол\GeekBrains\dzc#\d3\Zadacha21\obj\Debug\net7.0\Новая папка.csproj.AssemblyReference.cache
+C:\Users\Пользователь\OneDrive\Рабочий стол\GeekBrains\dzc#\d3\Zadacha21\obj\Debug\net7.0\Новая папка.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\OneDrive\Рабочий стол\GeekBrains\dzc#\d3\Zadacha21\obj\Debug\net7.0\Новая папка.AssemblyInfoInputs.cache
+C:\Users\Пользователь\OneDrive\Рабочий стол\GeekBrains\dzc#\d3\Zadacha21\obj\Debug\net7.0\Новая папка.AssemblyInfo.cs
+C:\Users\Пользователь\OneDrive\Рабочий стол\GeekBrains\dzc#\d3\Zadacha21\obj\Debug\net7.0\Новая папка.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\OneDrive\Рабочий стол\GeekBrains\dzc#\d3\Zadacha21\obj\Debug\net7.0\Новая папка.dll
+C:\Users\Пользователь\OneDrive\Рабочий стол\GeekBrains\dzc#\d3\Zadacha21\obj\Debug\net7.0\refint\Новая папка.dll
+C:\Users\Пользователь\OneDrive\Рабочий стол\GeekBrains\dzc#\d3\Zadacha21\obj\Debug\net7.0\Новая папка.pdb
+C:\Users\Пользователь\OneDrive\Рабочий стол\GeekBrains\dzc#\d3\Zadacha21\obj\Debug\net7.0\Новая папка.genruntimeconfig.cache
+C:\Users\Пользователь\OneDrive\Рабочий стол\GeekBrains\dzc#\d3\Zadacha21\obj\Debug\net7.0\ref\Новая папка.dll
